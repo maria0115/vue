@@ -1,0 +1,28 @@
+{
+    "description_systemmode":"system,light,dark",
+    "systemcolor":"light",
+    "preferences": {
+        "login": true,
+        "alarm": {
+            "today": true,
+            "mail": false,
+            "approval": true,
+            "works": false,
+            "board": true
+        },
+        "etiquette": {
+            "use": true,
+            "starttime": "11:00",
+            "endtime": "16:00"
+        },
+        "synchronize": false,
+        "display": "potal",
+        "listcount": "10",
+        "font": {
+            "size": "small",
+            "font": "Roll"
+        },
+        "mode": "system"
+    }
+
+}
